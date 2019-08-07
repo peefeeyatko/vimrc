@@ -1,6 +1,7 @@
 " ==== Colors and other basic settings
-syntax enable
+syntax on
 highlight Normal ctermbg=black
+set encoding=utf-8
 set ruler
 set hidden
 set number
