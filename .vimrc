@@ -1,7 +1,7 @@
 " ==== Colors and other basic settings
 
 syntax on
-highlight Normal ctermbg=black
+highlight Normal ctermbg=black ctermfg=lightgrey
 set encoding=utf-8
 set ruler
 set hidden
